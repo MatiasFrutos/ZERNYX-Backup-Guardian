@@ -1,0 +1,25 @@
+<!-- Archivo: src\ZERNYX.BackupGuardian.App\ZERNYX.BackupGuardian.App.csproj -->
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon></ApplicationIcon>
+    <AssemblyName>ZERNYX.BackupGuardian.App</AssemblyName>
+    <RootNamespace>ZERNYX.BackupGuardian.App</RootNamespace>
+    <Version>1.0.0</Version>
+    <Authors>ZERNYX Tech Studio</Authors>
+    <Company>ZERNYX Tech Studio</Company>
+    <Product>ZERNYX Backup Guardian</Product>
+    <Description>Software de escritorio para copias de seguridad manuales y programadas.</Description>
+    <Copyright>Copyright © ZERNYX Tech Studio</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.Sqlite" Version="8.0.11" />
+  </ItemGroup>
+
+</Project>

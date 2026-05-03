@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ZERNYX.BackupGuardian", "ZERNYX.BackupGuardian", "{49CE82EC-31C3-64EF-D63B-DD745D5A67FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A2B2D836-03D9-3B32-927B-C0755F57A361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZERNYX.BackupGuardian.App", "ZERNYX.BackupGuardian\src\ZERNYX.BackupGuardian.App\ZERNYX.BackupGuardian.App.csproj", "{A9A96038-E268-8F55-7B9B-7E65BA15E381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9A96038-E268-8F55-7B9B-7E65BA15E381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9A96038-E268-8F55-7B9B-7E65BA15E381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9A96038-E268-8F55-7B9B-7E65BA15E381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9A96038-E268-8F55-7B9B-7E65BA15E381}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A2B2D836-03D9-3B32-927B-C0755F57A361} = {49CE82EC-31C3-64EF-D63B-DD745D5A67FB}
+		{A9A96038-E268-8F55-7B9B-7E65BA15E381} = {A2B2D836-03D9-3B32-927B-C0755F57A361}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AB247A9-2A37-4B0A-B80B-D16B12288EB1}
+	EndGlobalSection
+EndGlobal

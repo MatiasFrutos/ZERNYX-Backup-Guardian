@@ -1,0 +1,160 @@
+============================================================
+ LICENCIA DE USO
+ ZERNYX BACKUP GUARDIAN
+============================================================
+
+Producto:
+ZERNYX Backup Guardian
+
+Versión:
+v1.0.0
+
+Desarrollado por:
+ZERNYX Tech Studio
+
+============================================================
+ 1. ACEPTACIÓN DE LA LICENCIA
+============================================================
+
+Al utilizar ZERNYX Backup Guardian, el usuario acepta las condiciones
+establecidas en esta licencia de uso.
+
+Si el usuario no está de acuerdo con estas condiciones, no deberá utilizar
+el software.
+
+============================================================
+ 2. USO PERMITIDO
+============================================================
+
+ZERNYX Backup Guardian puede ser utilizado para crear copias de seguridad
+manuales y programadas de carpetas importantes en equipos con Windows.
+
+El usuario puede utilizar el archivo ejecutable del programa para fines
+personales, operativos o internos de una organización, siempre que respete
+las condiciones de esta licencia.
+
+============================================================
+ 3. PROPIEDAD DEL SOFTWARE
+============================================================
+
+ZERNYX Backup Guardian es un producto desarrollado por ZERNYX Tech Studio.
+
+El software, su nombre, estructura, diseño, código fuente, documentación,
+recursos visuales y componentes asociados pertenecen a ZERNYX Tech Studio,
+salvo que se indique lo contrario.
+
+============================================================
+ 4. RESTRICCIONES
+============================================================
+
+No está permitido:
+
+- Vender el software como propio.
+- Modificar el nombre del producto y redistribuirlo como si fuera otro sistema.
+- Eliminar referencias a ZERNYX Tech Studio.
+- Usar el software para actividades ilegales o no autorizadas.
+- Distribuir versiones modificadas sin autorización expresa de ZERNYX Tech Studio.
+- Descompilar, alterar o reutilizar el código fuente con fines comerciales
+  sin autorización.
+
+============================================================
+ 5. RESPONSABILIDAD DEL USUARIO
+============================================================
+
+El usuario es responsable de:
+
+- Seleccionar correctamente las carpetas de origen y destino.
+- Verificar que las copias de seguridad se realicen correctamente.
+- Mantener espacio disponible en la unidad de destino.
+- Comprobar periódicamente el historial operativo.
+- Proteger el equipo donde se ejecuta el software.
+- Conservar copias adicionales si la información es crítica.
+
+============================================================
+ 6. LIMITACIÓN DE RESPONSABILIDAD
+============================================================
+
+ZERNYX Tech Studio no se responsabiliza por pérdidas de información,
+eliminación accidental de archivos, fallas del sistema operativo, problemas
+de hardware, cortes de energía, errores de configuración o uso incorrecto
+del software.
+
+El sistema se entrega como herramienta de apoyo operativo, y el usuario
+debe validar que los backups generados sean correctos y utilizables.
+
+============================================================
+ 7. DISPONIBILIDAD DEL SERVICIO
+============================================================
+
+En la versión v1.0.0, los backups programados funcionan mientras la
+aplicación se encuentra abierta.
+
+Si el programa está cerrado, las tareas programadas no se ejecutarán hasta
+que la aplicación vuelva a iniciarse.
+
+============================================================
+ 8. ACTUALIZACIONES
+============================================================
+
+ZERNYX Tech Studio puede publicar nuevas versiones, mejoras, correcciones
+o cambios funcionales del software.
+
+Las actualizaciones pueden modificar funciones, interfaz, estructura de
+archivos o comportamiento operativo del sistema.
+
+============================================================
+ 9. SOPORTE
+============================================================
+
+El soporte, mantenimiento o personalización del software dependerá del
+acuerdo establecido entre el usuario y ZERNYX Tech Studio.
+
+La entrega del software no implica soporte técnico permanente, salvo que
+exista un acuerdo específico.
+
+============================================================
+ 10. COMPONENTES DE TERCEROS
+============================================================
+
+El software puede utilizar tecnologías, librerías o componentes externos,
+como .NET, Windows Forms, SQLite u otros paquetes necesarios para su
+funcionamiento.
+
+Cada componente externo conserva sus propias condiciones de licencia.
+
+============================================================
+ 11. DISTRIBUCIÓN
+============================================================
+
+El archivo ejecutable puede ser compartido únicamente respetando el nombre
+del producto, la autoría de ZERNYX Tech Studio y las condiciones de esta
+licencia.
+
+No está permitida la redistribución comercial no autorizada.
+
+============================================================
+ 12. FINALIZACIÓN DE LA LICENCIA
+============================================================
+
+El incumplimiento de estas condiciones podrá dar por finalizada la licencia
+de uso.
+
+En ese caso, el usuario deberá dejar de utilizar el software y eliminar las
+copias no autorizadas.
+
+============================================================
+ 13. CONTACTO
+============================================================
+
+Desarrollado por:
+ZERNYX Tech Studio
+
+Producto:
+ZERNYX Backup Guardian
+
+Versión:
+v1.0.0
+
+============================================================
+ FIN DEL DOCUMENTO
+============================================================

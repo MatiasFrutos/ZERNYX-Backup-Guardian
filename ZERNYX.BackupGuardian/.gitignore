@@ -1,0 +1,20 @@
+# Archivo: .gitignore
+
+bin/
+obj/
+.vs/
+.vscode/
+publish/
+logs/
+reports/
+storage/backups-demo/
+storage/destino-demo/
+src/ZERNYX.BackupGuardian.App/data/
+src/ZERNYX.BackupGuardian.App/logs/
+src/ZERNYX.BackupGuardian.App/reports/
+*.db
+*.db-shm
+*.db-wal
+*.user
+*.suo
+*.cache
